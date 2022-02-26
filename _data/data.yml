@@ -40,6 +40,7 @@ career-profile:
     title: Career Profile
     summary: |
       Currently, an undergraduate IT degree student in computer science. Im in my third year in university in Corfu and so far the experience has been quite pleasant. As time passes, im gaining more and more knowledge and experience in the programming world. I have been working with a variety of languages throughout those 3 years in corfu, thanks to the university and i can say that with clarity im familiar with each one of them on a good level. The difficulty gets more and more challenging by the years but our job is to pull it through and  be equipped with the right tools for the future.
+      
 education:
     - degree: BCs in Computer Science
       university: Ionian University
@@ -53,8 +54,8 @@ education:
       time: 2015 - 2016
 
 Experiences: 
-    details: | 
-      I have no major experience level yet but im surely gonna gain a lot as soon as i graduate!
+        details: | 
+            I have no major experience level yet but im surely gonna gain a lot as soon as i graduate!
       
       
 publications:
