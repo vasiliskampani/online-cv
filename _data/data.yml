@@ -67,7 +67,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 60%
+        level: 70%
 
       - name: Javascript
         level: 35%
@@ -77,6 +77,12 @@ skills:
 
       - name: Sketch & Photoshop
         level: 65%
+        
+      - name: C++
+        level: 55%
+        
+      - name: C
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
