@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Βασίλειος-Μπασίρ Καμπάνι Π2019014 3212
+    name: Βασίλειος-Μπασίρ Καμπάνι Π2019014 
     tagline: Amateur Software Engineer/Web designer
     avatar: 100.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
