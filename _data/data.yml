@@ -42,24 +42,20 @@ education:
       time: 2019 - Present
       details: |
         At the moment i am working on a various experimental projects to gain as much experience as i can, so i can be a skillful programmer in the near future.
-          - Bullet point
-          - Bullet point
+       
     - degree: High School Diploma
       time: 2017 - 2018
     - degree: Certificiate in Proficiency in English
       time: 2015 - 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-Publications:
-        https://vasiliskampani.github.io/online-cv/
-        time: 2022
-
+      
+      
+publications:
+    title: Publications
+    papers:
+      - title: Resume project
+        link: "https://vasiliskampani.github.io/online-cv/"
+        authors: V-B.Kampani
+        conference: 2022
 
 
 skills:
