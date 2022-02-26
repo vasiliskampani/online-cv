@@ -45,7 +45,9 @@ education:
     - degree: BCs in Computer Science
       university: Ionian University
       time: 2019 - Present
-      details: |
+
+education:
+    - details: |
         At the moment i am working on a various experimental mini projects in regards to web and gaming design alongside with the work and the projects of university to gain as much experience as i can, so i can be the most skillful version of myself. In my free time im also designing open world games and creating avatars and thinking of creative web themes.
        
     - degree: High School Diploma
