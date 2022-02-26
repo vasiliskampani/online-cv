@@ -7,27 +7,42 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Βασίλειος-Μπασίρ Καμπάνι Π2019014 
-    tagline: Amateur Software Engineer/Web designer
-    avatar: 100.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: p19kaba@ionio.gr
-    phone: 69********
-    citizenship: Greek
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    citizenship:
     website: blog.webjeda.com #do not add http://
-    github: vasiliskampani
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English, Greek
+      - idiom: English
         level: Native
 
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
+
     interests:
-      - item: Basketball
+      - item: Climbing
         link:
 
-      - item: Chess
+      - item: Snowboarding
         link:
 
       - item: Cooking
@@ -43,10 +58,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-      degree: High School Diploma
-      time: 2017-2018
-      university: Ionian University
-      time: 2019-Present
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
