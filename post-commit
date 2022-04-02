@@ -1,0 +1,11 @@
+echo
+if [-e commit ]
+	then 
+	rm .commit
+	cd pdf
+	pandoc https://vasiliskampani.github.io/online-cv/ -o cv.tex -s
+	pdflatex cv.tex
+	git add .
+	git commit --amend -C HEAD -no-verify
+fi
+exit
